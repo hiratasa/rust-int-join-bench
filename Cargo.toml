@@ -1,5 +1,5 @@
 [package]
-name = "int_join_performance"
+name = "int_join_bench"
 version = "0.1.0"
 authors = ["hiratasa <36002166+hiratasa@users.noreply.github.com>"]
 edition = "2018"

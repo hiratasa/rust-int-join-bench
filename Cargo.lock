@@ -32,7 +32,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "int_join_performance"
+name = "int_join_bench"
 version = "0.1.0"
 dependencies = [
  "bencher",
