@@ -4,7 +4,7 @@ use once_cell::sync::Lazy;
 use rand::Rng;
 use std::fmt::Write;
 
-const N: usize = 1000;
+const N: usize = 100000;
 
 static VALUES: Lazy<Vec<usize>> = Lazy::new(|| {
     let mut rng = rand::thread_rng();
